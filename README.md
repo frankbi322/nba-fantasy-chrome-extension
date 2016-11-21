@@ -16,7 +16,7 @@ With this extension, users will be able to:
 
 ### Wireframes
 
-![wireframes(https://github.com/frankbi322/nba-fantasy-chrome-extension/blob/master/Wireframe.png)]
+![wireframes](https://github.com/frankbi322/nba-fantasy-chrome-extension/blob/master/Wireframe.png)
 
 ### Technologies and Technical challenges
 
